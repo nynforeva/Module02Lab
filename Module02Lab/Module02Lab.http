@@ -1,0 +1,6 @@
+@Module02Lab_HostAddress = http://localhost:5082
+
+GET {{Module02Lab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
